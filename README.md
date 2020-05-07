@@ -1,2 +1,2 @@
-# DIO configuration GUI tool
+# DIO configuration GUI tool using python
 
